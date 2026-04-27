@@ -1,0 +1,38 @@
+name: Welcome first-time contributors
+
+on:
+  issues:
+    types: [opened]
+  pull_request_target:
+    types: [opened]
+
+permissions:
+  issues: write
+  pull-requests: write
+
+jobs:
+  welcome:
+    name: Post a welcome comment
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/first-interaction@v1
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          issue-message: |
+            Hi! Thanks for opening your first issue here. 👋
+
+            A few things that might help:
+            - If you'd like to work on this yourself, comment to claim it before starting.
+            - If you're new to open source, our [CONTRIBUTING.md](https://github.com/mergeworthy/learn/blob/main/CONTRIBUTING.md) walks through making your first PR step by step.
+            - There's no such thing as a "too basic" question in this repo. Ask away.
+
+            Welcome aboard.
+          pr-message: |
+            Hi! This looks like your first pull request to this repo — welcome. 🎉
+
+            A maintainer will take a look soon. While you wait:
+            - Make sure CI is green (the markdown lint check is informational and won't block your merge).
+            - Feel free to update the PR with more commits if you spot something — we won't squash until merge.
+            - If we ask for changes, that's normal — every PR, including ones from senior engineers, gets feedback.
+
+            Thanks for contributing.
