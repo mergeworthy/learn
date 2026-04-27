@@ -2,7 +2,7 @@
 
 > Your guide to making your first open source contibution.
 
-Open source can feel like a closed club. It isn't — but the door is hard to find. This repo is a curated, community-maintained set of resources that help developpers go from "I've never merged a PR" to "I just shipped my first contribution."
+Open source can feel like a closed club. It isn't — but the door is hard to find. This repo is a curated, community-maintained set of resources that help developers go from "I've never merged a PR" to "I just shipped my first contribution."
 
 ## What this repo is
 
