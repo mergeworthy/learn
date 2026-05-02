@@ -1,4 +1,4 @@
-# JavaScript resources
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/b93cc85b-9d0a-4e95-b048-b343464634a0" /># JavaScript resources
 
 Curated resources for developers learning JavaScript and looking to contribute to JavaScript open source projects.
 
@@ -13,7 +13,7 @@ Curated resources for developers learning JavaScript and looking to contribute t
 Open a PR following [CONTRIBUTING.md](../../CONTRIBUTING.md). Branch name: `add-resource/your-name`.
 
 ## Learning the language
-
+- [Eloquent JavaScript](https://eloquentjavascript.net/) – A free online book that teaches JavaScript fundamentals
 - [JavaScript.info](https://javascript.info/) — Modern, deep tutorial covering the language end to end.
 - [MDN JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) — The reference for what JavaScript actually does in browsers.
 
