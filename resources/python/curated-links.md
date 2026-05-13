@@ -15,6 +15,7 @@ Open a PR following [CONTRIBUTING.md](../../CONTRIBUTING.md). Branch name: `add-
 ## Learning the language
 
 - [Python Official Tutorial](https://docs.python.org/3/tutorial/) — The canonical introduction, written by the Python core team.
+- [Real Python](https://realpython.com/) — In-depth practical tutorials covering Python from beginner to advanced topics.
 
 ## Beginner-friendly project lists
 
