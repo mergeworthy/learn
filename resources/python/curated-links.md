@@ -15,6 +15,7 @@ Open a PR following [CONTRIBUTING.md](../../CONTRIBUTING.md). Branch name: `add-
 ## Learning the language
 
 - [Python Official Tutorial](https://docs.python.org/3/tutorial/) — The canonical introduction, written by the Python core team.
+- [Total TypeScript](https://www.totaltypescript.com/) — Free and paid tutorials focused on practical TypeScript patterns and the type system.
 
 ## Beginner-friendly project lists
 
