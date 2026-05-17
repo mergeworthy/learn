@@ -17,6 +17,6 @@ If you're adding yourself as part of your first PR, link the PR you're adding yo
 3. *Slot 3 — open. Claim via the corresponding issue.*
 4. *Slot 4 — open. Claim via the corresponding issue.*
 5. *Slot 5 — open. Claim via the corresponding issue.*
-6. *Slot 6 — open. Claim via the corresponding issue.*
+6. [MichisGitIsKing](https://github.com/MichisGitIsKing) — first contribution: [Fixed typo "comitting" -> "committing"](https://github.com/MichisGitIsKing/learn/pull/1)
 
 After slot 6 fills, additions go straight in alphabetically — no need to claim a numbered slot.
