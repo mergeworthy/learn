@@ -61,8 +61,6 @@ If the repo has no `CONTRIBUTING.md`, no PR template, and no obvious signs anyon
 
 ### Maintainer responsivness
 
-<!-- TODO: contribution welcome — expand on what good vs slow maintainer response patterns look like -->
-
 A rough heuristic: look at the last 5 closed PRs. How long between PR open and first maintainer comment? Under a week is great. Over a month means you're going to be waiting.
 
 ## A safer search workflow
