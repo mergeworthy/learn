@@ -59,7 +59,7 @@ Issues with recent comments are safer.
 
 If the repo has no `CONTRIBUTING.md`, no PR template, and no obvious signs anyone has thought about new contributors, you're on your own. That's fine when you're more experienced — for a first PR, prefer repos that have done some of this work.
 
-### Maintainer responsivness
+### Maintainer responsiveness
 
 <!-- TODO: contribution welcome — expand on what good vs slow maintainer response patterns look like -->
 
