@@ -14,6 +14,7 @@ Open a PR following [CONTRIBUTING.md](../../CONTRIBUTING.md). Branch name: `add-
 
 ## Learning the language
 
+- [Eloquent JavaScript](https://eloquentjavascript.net/) — A free online book that teaches JavaScript fundamentals through worked examples and exercises.
 - [JavaScript.info](https://javascript.info/) — Modern, deep tutorial covering the language end to end.
 - [MDN JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) — The reference for what JavaScript actually does in browsers.
 
