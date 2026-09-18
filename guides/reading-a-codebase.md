@@ -1,6 +1,6 @@
 # Reading a codebase
 
-Before you change a line of code in an unfimiliar codebase, you need to orient yourself. This is the single most underrated skill in open source — and it's the difference between a PR that gets merged and a PR that gets a polite "this isn't quite how we do things here."
+Before you change a line of code in an unfamiliar codebase, you need to orient yourself. This is the single most underrated skill in open source — and it's the difference between a PR that gets merged and a PR that gets a polite "this isn't quite how we do things here."
 
 This guide is about the first 30 minutes you spend in a new repo.
 
