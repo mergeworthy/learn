@@ -2,7 +2,7 @@
 
 Before you click "Create pull request," walk through this checklist. It catches the things that turn a clean merge into three rounds of review.
 
-## Pre-flight: before comitting
+## Pre-flight: before committing
 
 ### The change itself
 
